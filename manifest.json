@@ -1,0 +1,8 @@
+{
+    "name": "Send Message with Webhook",
+    "version": "0.x.x",
+    "description": "Send a message with a webhook.",
+    "author": "TheShadowGamer#7931",
+    "license": "MIT"
+  }
+  
